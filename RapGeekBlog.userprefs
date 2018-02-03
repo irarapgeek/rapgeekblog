@@ -1,9 +1,19 @@
 ﻿<Properties StartupConfiguration="{837F3085-DBD6-48FC-9241-39B0A7913577}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/User.cs">
+    <Files>
+      <File FileName="Models/Post.cs" Line="1" Column="1" />
+      <File FileName="Models/User.cs" Line="6" Column="9" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RapGeekBlog" expanded="True" selected="True" />
+          <Node name="RapGeekBlog" expanded="True">
+            <Node name="RapGeekBlog" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="User.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
